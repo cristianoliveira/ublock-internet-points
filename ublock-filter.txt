@@ -52,3 +52,8 @@ www.reddit.com###change-username-tooltip-id :has(> [aria-haspopup="true"]) div s
 twitter.com##[href*="foll"] span:first-child span
 ! 2023-11-24 https://twitter.com
 twitter.com##[role="group"] span
+
+! Notifcations icons & new posts
+! 2023-11-24 https://twitter.com
+twitter.com##div[data-testid="cellInnerDiv"]:first-child
+twitter.com##[href="/notifications"] div:has(svg) > div[aria-live="polite"]
