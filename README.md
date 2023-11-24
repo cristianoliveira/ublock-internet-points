@@ -4,6 +4,15 @@ An ublock filter list to hide most of the internet points for your own mental he
 
 So I can still enjoy those platforms without getting affected by those internet points, in neither a positive or negative way. :)
 
+## No more internet points for:
+
+ - Github
+ - Twitter
+ - Instagram
+ - Reddit
+ - Facebook
+ - Youtube
+
 ## Installation
 
 Add the following URL to your adblocker:
