@@ -4,7 +4,7 @@
 ! Expires: 7 days
 ! Version: 0.0.1
 ! Description: Hides all the internet points from you. For your own mental health! <3
-! Source: github.com/cristianolieira/ublock-fake-internet-points
+! Source: https://github.com/cristianolieira/ublock-internet-points
 
 ! Youtube
 ! 2023-11-24 https://www.youtube.com
