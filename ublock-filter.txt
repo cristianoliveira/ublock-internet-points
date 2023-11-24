@@ -1,0 +1,41 @@
+! Hides all the internet points from me. For my mental health! :D
+
+! 2023-09-03 https://github.com
+github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1 > .mb-3
+github.com##a.Link--muted.pinned-item-meta:nth-of-type(1)
+github.com##.js-deferred-toggler-target.flex-auto.BtnGroup-parent.js-social-form > .BtnGroup-item.btn.btn-sm.rounded-left-2 > .js-social-count.Counter
+github.com##.Link--muted.Link > strong
+
+! 2023-09-23 https://www.reddit.com
+www.reddit.com##div:has(>[aria-label="upvote"]) > div
+
+! 2023-11-24 https://github.com
+github.com##a.Link--muted.pinned-item-meta:nth-of-type(2)
+
+! 2023-11-24 https://www.youtube.com
+www.youtube.com###metadata-line
+
+! 2023-11-24 https://twitter.com
+twitter.com##[role="group"] span
+
+! 2023-11-24 https://github.com
+github.com##.BtnGroup-item.btn.btn-sm.rounded-left-2.js-toggler-target > .js-social-count
+github.com###fork-button > .Counter
+github.com###repository-details-watch-button > .Counter
+
+! 2023-11-24 https://www.instagram.com
+www.instagram.com##[href*="liked_by"] > span span:first-child
+
+! 2023-11-24 https://www.facebook.com
+www.facebook.com##div:has(>[role="toolbar"]) [role="button"] > span
+www.facebook.com##[role="article"] [role="button"] span
+www.facebook.com##div:has(>div:has(>[role="toolbar"])) span
+
+! 2023-11-24 https://www.reddit.com
+www.reddit.com###profile--id-card--highlight-tooltip--karma
+www.reddit.com##[href*="follow"] span
+www.reddit.com###email-collection-tooltip-id > span span:last-child
+
+! 2023-11-24 https://twitter.com
+twitter.com##[href*="foll"] span:first-child span
+
