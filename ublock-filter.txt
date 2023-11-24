@@ -43,6 +43,10 @@ www.reddit.com###profile--id-card--highlight-tooltip--karma
 www.reddit.com##[href*="follow"] span
 www.reddit.com###email-collection-tooltip-id > span span:last-child
 
+! Notifications icon
+! 2023-11-24 https://www.reddit.com
+www.reddit.com###change-username-tooltip-id :has(> [aria-haspopup="true"]) div span
+
 ! twitter
 ! 2023-11-24 https://twitter.com
 twitter.com##[href*="foll"] span:first-child span
