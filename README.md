@@ -11,3 +11,5 @@ Add the following URL to your adblocker:
 ```
 https://raw.githubusercontent.com/cristianoliveira/ublock-fake-internet-points/main/ublock-filter.txt
 ```
+
+I use [ublock origin](https://ublockorigin.com/) so I can't guarantee it will work on other adblockers.

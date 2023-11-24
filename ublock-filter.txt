@@ -1,5 +1,11 @@
 ! Hides all the internet points from me. For my mental health! :D
 
+! Title: Internet Points Hider
+! Expires: 7 days
+! Version: 0.0.1
+! Description: Hides all the internet points from you. For your own mental health! <3
+! Source: github.com/cristianolieira/ublock-fake-internet-points
+
 ! Youtube
 ! 2023-11-24 https://www.youtube.com
 www.youtube.com###metadata-line
