@@ -2,7 +2,7 @@
 
 An ublock filter list to hide most of the internet points for your own mental health <3
 
-So I can still enjoy those platforms without getting affected by those internet points, in neither a positive or negative way. :)
+So one can still enjoy those platforms without getting affected by those internet points, in neither a positive nor negative way. :)
 
 ## No more internet points for:
 
