@@ -1,2 +1,13 @@
 # ublock-fake-internet-points
-An ublock filter list to hide the fake internet points for your own mental health :) 
+
+An ublock filter list to hide the fake internet points for your own mental health <3
+
+So I can still can enjoy those platforms without getting affected by those internet points, in neither a positive or negative way. :)
+
+## Installation
+
+Add the following URL to your adblocker:
+
+```
+https://raw.githubusercontent.com/cristianoliveira/ublock-fake-internet-points/main/ublock-filter.txt
+```
