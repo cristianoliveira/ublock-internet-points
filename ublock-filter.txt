@@ -2,7 +2,7 @@
 
 ! Title: Internet Points Hider
 ! Expires: 7 days
-! Version: 0.0.1
+! Version: 0.0.2
 ! Description: Hides all the internet points from you. For your own mental health! <3
 ! Source: https://github.com/cristianolieira/ublock-internet-points
 
@@ -50,10 +50,8 @@ www.reddit.com###change-username-tooltip-id :has(> [aria-haspopup="true"]) div s
 ! twitter
 ! 2023-11-24 https://twitter.com
 twitter.com##[href*="foll"] span:first-child span
-! 2023-11-24 https://twitter.com
 twitter.com##[role="group"] span
-
 ! Notifcations icons & new posts
+
 ! 2023-11-24 https://twitter.com
-twitter.com##div[data-testid="cellInnerDiv"]:first-child
 twitter.com##[href="/notifications"] div:has(svg) > div[aria-live="polite"]
