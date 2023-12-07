@@ -25,6 +25,9 @@ github.com##.BtnGroup-item.btn.btn-sm.rounded-left-2.js-toggler-target > .js-soc
 github.com###fork-button > .Counter
 github.com###repository-details-watch-button > .Counter
 
+! 2023-12-07 https://github.com
+github.com##[href*="stargazers"]
+
 ! Instagram
 ! 2023-11-24 https://www.instagram.com
 www.instagram.com##[href*="liked_by"] > span span:first-child
