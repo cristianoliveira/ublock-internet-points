@@ -59,3 +59,7 @@ x.com##[aria-label*="Repost"]
 
 ! 2023-11-24 https://twitter.com
 twitter.com##[href="/notifications"] div:has(svg) > div[aria-live="polite"]
+
+! 2024-08-25 https://slack.com
+! Show emoji but not the amount of "likes"
+slack.com##[aria-label*="reaction"] > span
