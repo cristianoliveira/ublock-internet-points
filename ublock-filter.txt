@@ -2,7 +2,7 @@
 
 ! Title: Internet Points Hider
 ! Expires: 7 days
-! Version: 0.0.2
+! Version: 0.0.3
 ! Description: Hides all the internet points from you. For your own mental health! <3
 ! Source: https://github.com/cristianolieira/ublock-internet-points
 
