@@ -54,8 +54,8 @@ www.reddit.com###change-username-tooltip-id :has(> [aria-haspopup="true"]) div s
 ! 2023-11-24 https://twitter.com
 x.com##[aria-label*="Like"]
 x.com##[aria-label*="View post"]
-x.com##[aria-label*="Reposts"]
-! Notifcations icons & new posts
+x.com##[aria-label*="Repost"]
+! Notifications icons & new posts
 
 ! 2023-11-24 https://twitter.com
 twitter.com##[href="/notifications"] div:has(svg) > div[aria-live="polite"]
