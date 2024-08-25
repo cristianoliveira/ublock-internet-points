@@ -52,8 +52,8 @@ www.reddit.com###change-username-tooltip-id :has(> [aria-haspopup="true"]) div s
 
 ! twitter
 ! 2023-11-24 https://twitter.com
-twitter.com##[href*="foll"] span:first-child span
-twitter.com##[role="group"] span
+twitter.com##[aria-label*="Like"]
+twitter.com##[aria-label*="View post"]
 ! Notifcations icons & new posts
 
 ! 2023-11-24 https://twitter.com
